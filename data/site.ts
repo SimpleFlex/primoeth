@@ -1,8 +1,8 @@
 // EDIT YOUR DETAILS HERE
 export const site = {
-  name: "D wiper",
-  handle: "D wiper.sol",
-  email: "you@example.com",
+  name: "Primo.eth",
+  handle: "@primo_MInd",
+  email: "primoofweb@gamil.com",
   intro:
     "I help Web3 projects find their people and grow with them: community, marketing and growth strategy, plus the web development to ship it.",
   words: ["communities.", "movements.", "momentum.", "real users."],

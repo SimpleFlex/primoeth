@@ -216,8 +216,13 @@ export function Cta() {
         <h2>Let’s grow something.</h2>
         <p>Tell me what you are building. I reply fast.</p>
       </div>
-      <a href={`mailto:${site.email}`} className="btn light">
-        Send a message →
+      <a
+        href="https://x.com/primo_Mind"
+        target="_blank"
+        rel="noreferrer"
+        className="btn light"
+      >
+        Message on X →
       </a>
     </section>
   );

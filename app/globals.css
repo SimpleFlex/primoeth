@@ -897,3 +897,11 @@ h2 {
 .avatar .slot {
   border-radius: 50%;
 }
+
+.res {
+  border-left: 3px solid var(--acc2);
+  padding-left: 12px;
+  color: var(--mut);
+  font-size: 15px;
+  white-space: pre-line;
+}

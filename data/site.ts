@@ -20,9 +20,9 @@ export const site = {
     "Web3",
   ],
   socials: [
-    { label: "X", url: "https://x.com/yourhandle" },
-    { label: "GitHub", url: "https://github.com/yourhandle" },
-    { label: "Telegram", url: "https://t.me/yourhandle" },
+    { label: "X", url: "https://x.com/primo_Mind" },
+    { label: "Telegram", url: "https://t.me/primoeth" },
+    { label: "Medium", url: "https://medium.com/@prim0.eth" },
   ],
   stats: [
     { value: "10k+", label: "Community members grown" },
@@ -30,10 +30,9 @@ export const site = {
     { value: "30+", label: "Projects supported" },
     { value: "10+", label: "Campaigns shipped" },
   ],
-  photo: "", // e.g. "/images/me.jpg"
+  photo: "/images/eagles.png", // e.g. "/images/me.jpg"
   about: [
-    "[Write 2 to 3 sentences about you: how you got into Web3, what you are best at, and what kind of teams you like working with.]",
-    "I work across community, growth and marketing, and I can build the website myself. I am active in the Solana ecosystem and the Superteam builder community.",
+    "I'm Primo.eth, a Web3 growth strategist, community builder, and full-stack developer focused on helping blockchain projects grow their presence and build meaningful connections with users. I offer community management, ambassador representation, X Spaces and AMA hosting, content creation, audience engagement, product feedback, and web development services. My goal is to help Web3 teams improve visibility, strengthen their communities, attract genuine users, and turn their ideas into products people want to use.",
   ],
   skills: ["Community", "Growth", "Content", "Next.js", "Solana", "Bounties"],
   services: [

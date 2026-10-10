@@ -21,7 +21,7 @@ export const testimonials: Testimonial[] = [
     image: "/images/cream.png",
   },
   {
-    name: "[CLIENT NAME]",
+    name: "$ARK",
     role: "Commmunity Mananger and Web developer ",
     quote:
       "Man, this site is so smooth and clean! The UI is top-tier, everything flows perfectly, and the whole experience is just amazing. Great work on this! 🔥👏",
